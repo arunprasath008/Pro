@@ -32,4 +32,4 @@ ___
 Underscores
 [heloooooo less go to google](hhtps://www.google.com)
 ### Here's our logo (hover to see the title text):
-![alt text](https://images.app.goo.gl/SowE7vLj7b4mxPkd8)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-eoiig&psig=AOvVaw3C1Tedc4UjvVSdeZ0kBU22&ust=1726115958612000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDAmJaJuogDFQAAAAAdAAAAABAQ)
